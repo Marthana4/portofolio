@@ -42,7 +42,7 @@
       <Contact/>
       <!-- End Contact Section -->
 
-    </main>=
+    </main>
 
     <!-- ======= Footer ======= -->
     <Footer/>
