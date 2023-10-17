@@ -139,10 +139,11 @@
   /**
    * Hero type effect
    */
-  const typed = select('.typed')
+  const typed = document.querySelector('.typed'); 
   if (typed) {
-    let typed_strings = typed.getAttribute('data-typed-items')
-    typed_strings = typed_strings.split(',')
+    let typed_strings = typed.getAttribute('data-typed-items');
+    typed_strings = typed_strings.split(',');
+
     new Typed('.typed', {
       strings: typed_strings,
       loop: true,
@@ -151,6 +152,7 @@
       backDelay: 2000
     });
   }
+
 
   /**
    * Skills animation
