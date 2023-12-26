@@ -14,10 +14,6 @@
       <About/>
       <!-- End About Section -->
 
-      <!-- ======= Facts Section ======= -->
-      <Facts/>
-      <!-- End Facts Section -->
-
       <!-- ======= Skills Section ======= -->
       <Skills/>
       <!-- End Skills Section -->
@@ -29,18 +25,6 @@
       <!-- ======= Portfolio Section ======= -->
       <Portofolio/>
       <!-- End Portfolio Section -->
-
-      <!-- ======= Services Section ======= -->
-      <Services/>
-      <!-- End Services Section -->
-
-      <!-- ======= Testimonials Section ======= -->
-      <Testimonial/>
-      <!-- End Testimonials Section -->
-
-      <!-- ======= Contact Section ======= -->
-      <Contact/>
-      <!-- End Contact Section -->
 
     </main>
 
@@ -56,13 +40,9 @@
 import Navbar from '~/components/Navbar.vue'
 import Introduction from '~/components/Introduction.vue'
 import About from '~/components/About.vue'
-import Facts from '~/components/Facts.vue'
 import Skills from '~/components/Skills.vue'
 import Resume from '~/components/Resume.vue'
 import Portofolio from '~/components/Portofolio.vue'
-import Services from '~/components/Services.vue'
-import Testimonial from '~/components/Testimonial.vue'
-import Contact from '~/components/Contact.vue'
 import Footer from '~/components/Footer.vue'
 export default {
   name: 'IndexPage',

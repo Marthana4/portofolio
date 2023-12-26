@@ -19,7 +19,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>marthanadiva@gmail.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Malang, East Java, Indonesia</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Surabaya, East Java, Indonesia</span></li>
                 </ul>
               </div>
             </div>
